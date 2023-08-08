@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,100;8..144,300;8..144,400;8..144,500;8..144,600;8..144,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800&display=swap');
+
+body, html {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+#header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    background: #fefefed9;
+    padding: 30px;
+    box-sizing: border-box;
+    z-index: 999;
+}
+
+#header .container {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+#header > .info {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+#header h1, #header h3 {
+    margin: 0;
+    padding: 0;
+}
+
+#header h1 {
+    font-size: 32px;
+    font-weight: 700;
+    padding-bottom: 3px;
+}
+
+#header h3 {
+    font-size: 20px;
+    font-weight: 400;
+    color: hsl(0, 0%, 60%);
+}
+
+#header .socials {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+#header a {
+    text-decoration: none;
+    color: #333;
+    font-size: 20px;
+    transition: all 125ms ease-in-out;
+}
+
+#header a:hover {
+    color: #155ab5;
+    text-shadow: rgba(51, 51, 51, 0.1) 0px 2px 4px;
+}
+
+.appPreview {
+    min-height: 400px;
+    width: 100vw;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+@media (max-width: 1039px) {
+    .appPreview {
+        padding: 50px 15px;
+    }
+}
+
+.container {
+    max-width: 1040px;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.appPreview h1 {
+    margin: 0;
+    text-align: center;
+}
+
+.appPreview h3 {
+    margin: 0;
+    font-weight: 400;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #333;
+    opacity: 0.7;
+}
+
+.appPreview .showcase {
+    display: block;
+    width: 80%;
+    margin: 0;
+    padding: 40px 0;
+}
+
+.appPreview .infoButton {
+    display: block;
+    margin: 0;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+    border-radius: 12px;
+    box-shadow: #33333350 2px 6px 6px;
+    transform: all 125ms ease-in-out;
+}
+
+.appPreview .infoButton:hover {
+    opacity: 0.9;
+}
+
+.appPreview .infoButton:active {
+    opacity: 1;
+    box-shadow: #00000000 0px 0px 0px;
+}
+
+.coffeeNoteBG {
+    background: linear-gradient(0.33turn, #642D1F, #642d1fdb);
+}
+.memorizeBG {
+    background: linear-gradient(0.33turn, #3498db, #7ac4f5);
+}
+.bookieBG {
+    background: linear-gradient(0.33turn, #F49228, #FDB610);
+}
+
+.serif {
+    font-family: 'New York', 'Roboto Serif', serif;
+}
+.fun {
+    font-family: 'Nunito', 'Roboto', sans-serif;
+}
+
+.flex-centered {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.memorize {
+    background: #d9ecf9;
+    /* background: linear-gradient(0.33turn, #3498db70, #7ac4f570); */
+}
+
+.bookie {
+    background: #F4E2DA;
+    /* background: linear-gradient(0.33turn, #F4922870, #FDB61070); */
+}
+
+.coffeeNote {
+    background: #FFF9F5;
+    /* background: linear-gradient(0.33turn, #642D1F70, #A85B3270) */
+}
+
+#footer {
+    width: 100vw;
+    background: #fefefe;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    padding: 60px;
+    box-sizing: border-box;
+}
+
+#footer > div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+#footer img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    aspect-ratio: 1.0;
+    overflow: hidden;
+    border-radius: 50%;
+    text-align: center;
+}
+
+#footer h1 {
+    font-weight: 700;
+    color: #333;
+    font-size: 24px;
+    margin: 0;
+    text-align: center;
+}
+
+#footer p {
+    font-weight: 400;
+    color: #33333395;
+    font-size: 16px;
+    margin: 0;
+    text-align: center;
+}
+
+#footer .socials {
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 15px;
+    padding: 20px 0;
+}
+
+#footer a {
+    text-decoration: none;
+    color: #333;
+    font-size: 20px;
+    transition: all 125ms ease-in-out;
+}
+
+#footer a:hover {
+    color: #155ab5;
+    text-shadow: rgba(51, 51, 51, 0.1) 0px 2px 4px;
+}
