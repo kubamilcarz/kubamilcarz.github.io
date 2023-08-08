@@ -78,12 +78,6 @@ body, html {
     padding: 50px;
 }
 
-@media (max-width: 1039px) {
-    .appPreview {
-        padding: 50px 15px;
-    }
-}
-
 .container {
     max-width: 1040px;
     display: block;
@@ -238,4 +232,18 @@ body, html {
 #footer a:hover {
     color: #155ab5;
     text-shadow: rgba(51, 51, 51, 0.1) 0px 2px 4px;
+}
+
+@media (max-width: 1039px) {
+    .appPreview {
+        padding: 50px 15px;
+    }
+
+    .mobile-hidden {
+        display: none;
+    }
+
+    .appPreview .showcase {
+        width: 100%;
+    }
 }
