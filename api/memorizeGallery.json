@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Basic Vocabulary",
         "icon": "book",
         "color": "green",
@@ -8,6 +9,7 @@
         "cards": []
     },
     {
+        "id": 2,
         "name": "Travel Conversations",
         "icon": "airplane",
         "color": "blue",
@@ -16,6 +18,7 @@
         "cards": []
     },
     {
+        "id": 3,
         "name": "Idioms and Expressions",
         "icon": "quote.bubble",
         "color": "orange",
@@ -24,6 +27,7 @@
         "cards": []
     },
     {
+        "id": 4,
         "name": "Daily Routine and Activities",
         "icon": "clock",
         "color": "purple",
@@ -32,6 +36,7 @@
         "cards": []
     },
     {
+        "id": 5,
         "name": "Business Expressions",
         "icon": "briefcase",
         "color": "teal",
@@ -40,6 +45,7 @@
         "cards": []
     },
     {
+        "id": 6,
         "name": "Cultural Insights",
         "icon": "globe",
         "color": "red",
@@ -48,6 +54,7 @@
         "cards": []
     },
     {
+        "id": 7,
         "name": "Biology Foundations",
         "icon": "leaf",
         "color": "green",
@@ -56,6 +63,7 @@
         "cards": []
     },
     {
+        "id": 8,
         "name": "Chemistry Fundamentals",
         "icon": "flask",
         "color": "blue",
@@ -64,6 +72,7 @@
         "cards": []
     },
     {
+        "id": 9,
         "name": "Physics Principles",
         "icon": "bolt",
         "color": "purple",
@@ -72,6 +81,7 @@
         "cards": []
     },
     {
+        "id": 10,
         "name": "Ancient Civilizations",
         "icon": "pyramid",
         "color": "brown",
@@ -80,6 +90,7 @@
         "cards": []
     },
     {
+        "id": 11,
         "name": "World Wars and Conflicts",
         "icon": "shield",
         "color": "gray",
@@ -88,6 +99,7 @@
         "cards": []
     },
     {
+        "id": 12,
         "name": "Historical Figures",
         "icon": "person",
         "color": "orange",
@@ -96,6 +108,7 @@
         "cards": []
     },
     {
+        "id": 13,
         "name": "Colonial History",
         "icon": "flag",
         "color": "green",
@@ -104,6 +117,7 @@
         "cards": []
     },
     {
+        "id": 14,
         "name": "Industrial Revolution",
         "icon": "gearshape.2.fill",
         "color": "blue",
@@ -112,6 +126,7 @@
         "cards": []
     },
     {
+        "id": 15,
         "name": "Art and History",
         "icon": "paintbrush",
         "color": "purple",
@@ -120,6 +135,7 @@
         "cards": []
     },
     {
+        "id": 16,
         "name": "Women in History",
         "icon": "person.fill",
         "color": "pink",
