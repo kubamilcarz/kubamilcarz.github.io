@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Basic Vocabulary",
+        "icon": "book",
+        "color": "green",
+        "language": "ES",
+        "category": "Languages",
+        "cards": []
+    },
+    {
+        "name": "Travel Conversations",
+        "icon": "airplane",
+        "color": "blue",
+        "language": "EN",
+        "category": "Languages",
+        "cards": []
+    },
+    {
+        "name": "Idioms and Expressions",
+        "icon": "quote.bubble",
+        "color": "orange",
+        "language": "ES",
+        "category": "Languages",
+        "cards": []
+    },
+    {
+        "name": "Daily Routine and Activities",
+        "icon": "clock",
+        "color": "purple",
+        "language": "ES",
+        "category": "Languages",
+        "cards": []
+    },
+    {
+        "name": "Business Expressions",
+        "icon": "briefcase",
+        "color": "teal",
+        "language": "ES",
+        "category": "Languages",
+        "cards": []
+    },
+    {
+        "name": "Cultural Insights",
+        "icon": "globe",
+        "color": "red",
+        "language": "ES",
+        "category": "Languages",
+        "cards": []
+    },
+    {
+        "name": "Biology Foundations",
+        "icon": "leaf",
+        "color": "green",
+        "language": "EN",
+        "category": "Science",
+        "cards": []
+    },
+    {
+        "name": "Chemistry Fundamentals",
+        "icon": "flask",
+        "color": "blue",
+        "language": "EN",
+        "category": "Science",
+        "cards": []
+    },
+    {
+        "name": "Physics Principles",
+        "icon": "bolt",
+        "color": "purple",
+        "language": "EN",
+        "category": "Science",
+        "cards": []
+    },
+    {
+        "name": "Ancient Civilizations",
+        "icon": "pyramid",
+        "color": "brown",
+        "language": "EN",
+        "category": "History",
+        "cards": []
+    },
+    {
+        "name": "World Wars and Conflicts",
+        "icon": "shield",
+        "color": "gray",
+        "language": "EN",
+        "category": "History",
+        "cards": []
+    },
+    {
+        "name": "Historical Figures",
+        "icon": "person",
+        "color": "orange",
+        "language": "EN",
+        "category": "History",
+        "cards": []
+    },
+    {
+        "name": "Colonial History",
+        "icon": "flag",
+        "color": "green",
+        "language": "EN",
+        "category": "History",
+        "cards": []
+    },
+    {
+        "name": "Industrial Revolution",
+        "icon": "gearshape.2.fill",
+        "color": "blue",
+        "language": "EN",
+        "category": "History",
+        "cards": []
+    },
+    {
+        "name": "Art and History",
+        "icon": "paintbrush",
+        "color": "purple",
+        "language": "EN",
+        "category": "History",
+        "cards": []
+    },
+    {
+        "name": "Women in History",
+        "icon": "person.fill",
+        "color": "pink",
+        "language": "EN",
+        "category": "History",
+        "cards": []
+    }
+]
