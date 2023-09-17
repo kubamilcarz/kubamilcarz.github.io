@@ -234,6 +234,9 @@ body, html {
 .fun {
     font-family: 'Nunito', 'Roboto', sans-serif;
 }
+.sfpro {
+    font-family: -apple-system, 'SF Pro', 'Roboto', sans-serif;
+}
 
 .flex-centered {
     width: 100%;
@@ -254,6 +257,10 @@ body, html {
 
 .memorize-slight-gradient {
     background: radial-gradient(ellipse at bottom, rgba(122, 196, 245, 0.2), rgba(52, 152, 219, 0.2));
+}
+
+.palace {
+    background: #9dd9d4;
 }
 
 .bookie {
