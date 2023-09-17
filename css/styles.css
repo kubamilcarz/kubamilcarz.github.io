@@ -259,10 +259,6 @@ body, html {
     background: radial-gradient(ellipse at bottom, rgba(122, 196, 245, 0.2), rgba(52, 152, 219, 0.2));
 }
 
-.palace {
-    background: #9dd9d4;
-}
-
 .bookie {
     background: #F4E2DA;
     /* background: linear-gradient(0.33turn, #F4922870, #FDB61070); */
@@ -280,6 +276,9 @@ body, html {
     background: #FFF9F5;
     /* background: linear-gradient(0.33turn, #642D1F70, #A85B3270) */
 }
+.palace {
+    background: #9dd9d4;
+}
 
 #footer {
     width: 100vw;
@@ -290,6 +289,13 @@ body, html {
     justify-content: center;
     padding: 60px;
     box-sizing: border-box;
+}
+
+#footer > div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 #footer > a {
