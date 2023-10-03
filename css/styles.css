@@ -407,7 +407,7 @@ body, html {
     background: radial-gradient(ellipse at bottom, rgba(122, 196, 245, 0.2), rgba(52, 152, 219, 0.2));;
 }
 
-.about-me {
+.about-me > .about-me {
     display: flex;
     flex-direction: column;
     row-gap: 25px;
@@ -415,15 +415,18 @@ body, html {
 }
 
 #footer.about-hero h1 {
-    padding-top: 10px;
+    display: block;
+    padding-top: 15px;
 }
 
-#footer.about-hero p {
+#footer.about-hero .about-me > p {
     display: block;
     margin: 0;
+    text-align: justify;
 
     font-size: 17px;
-    color: #333;
+    line-height: 1.6em;
+    color: #333333d5;
 }
 
 @media (max-width: 1039px) {
