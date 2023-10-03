@@ -414,11 +414,11 @@ body, html {
     padding: 50px 0;
 }
 
-#footer.about-me h1 {
+#footer.about-hero h1 {
     padding-top: 10px;
 }
 
-#footer.about-me p {
+#footer.about-hero p {
     display: block;
     margin: 0;
 
