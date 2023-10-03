@@ -109,6 +109,24 @@ body, html {
     transition: all 125ms ease-in-out;
 }
 
+#header .socials .about a {
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    opacity: 0.9;
+}
+
+#header .socials .about a::after {
+    display: flex;
+    flex-direction: row;
+    content: " ";
+    width: 1px;
+    height: 20px;
+    margin-left: 20px;
+    background-color: #33333340;
+}
+
 #header a:hover {
     color: #155ab5;
     text-shadow: rgba(51, 51, 51, 0.1) 0px 2px 4px;
@@ -124,6 +142,13 @@ body, html {
 
 .container {
     max-width: 1040px;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.content-container {
+    max-width: 640px;
     display: block;
     width: 100%;
     margin: 0 auto;
@@ -376,6 +401,29 @@ body, html {
     flex-direction: column;
     justify-content: space-between;
     height: 100%;
+}
+
+#footer.about-hero {
+    background: radial-gradient(ellipse at bottom, rgba(122, 196, 245, 0.2), rgba(52, 152, 219, 0.2));;
+}
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+    padding: 50px 0;
+}
+
+#footer.about-me h1 {
+    padding-top: 10px;
+}
+
+#footer.about-me p {
+    display: block;
+    margin: 0;
+
+    font-size: 17px;
+    color: #333;
 }
 
 @media (max-width: 1039px) {

@@ -2,3 +2,4 @@ RewriteEngine On
 RewriteRule ^memorize$ memorize.html [L]
 RewriteRule ^bookie$ bookie.html [L]
 RewriteRule ^coffeeNote$ coffeeNote.html [L]
+RewriteRule ^about$ about.html [L]
