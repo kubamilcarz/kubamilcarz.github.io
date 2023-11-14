@@ -252,9 +252,13 @@ body, html {
     border: 2px solid #F49228;
     background: linear-gradient(0.33turn, #F49228, #FDB610);
 }
+.reflectBG {
+    border: 2px solid #3E845C;
+    background: linear-gradient(0.33turn, #3E845C, #3E865C);
+}
 
 .serif {
-    font-family: -apple-system-ui-serif, ui-serif, 'New York', 'Roboto Serif', serif;
+    font-family: 'New York', -apple-system-ui-serif, ui-serif, 'Roboto Serif', serif;
 }
 .fun {
     font-family: 'Nunito', 'Roboto', sans-serif;
@@ -299,10 +303,19 @@ body, html {
 
 .coffeeNote {
     background: #FFF9F5;
-    /* background: linear-gradient(0.33turn, #642D1F70, #A85B3270) */
 }
 .palace {
     background: #b3e0dd;
+}
+.reflect {
+    background: #a3beae;
+}
+.reflect-gradient {
+    background: radial-gradient(ellipse at bottom, #3e845c90, #3E865C90)
+}
+
+.reflect-slight-gradient {
+    background: radial-gradient(ellipse at bottom, rgba(61, 133, 92, 0.4), rgba(62, 132, 92, 0.4));
 }
 
 #footer {
