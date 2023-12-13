@@ -187,6 +187,11 @@ body, html {
     padding-bottom: 15px;
 }
 
+.presskit {
+    padding-bottom: 0;
+    padding-top: 15px;
+}
+
 .appPreview .showcase {
     display: block;
     width: 80%;
