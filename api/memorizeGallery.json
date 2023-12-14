@@ -114,33 +114,907 @@
         "color": "green",
         "language": "EN",
         "category": "History",
-        "cards": []
+        "cards": [
+            {
+                "front": "Who is credited with discovering the New World in 1492?",
+                "back": "Christopher Columbus, an Italian explorer."
+            },
+            {
+                "front": "What was the first permanent English settlement in America?",
+                "back": "Jamestown, Virginia, founded in 1607."
+            },
+            {
+                "front": "The Treaty of Tordesillas, signed in 1494, was an agreement between which two countries?",
+                "back": "Spain and Portugal, dividing newly discovered lands outside Europe."
+            },
+            {
+                "front": "Name the series of conflicts between British settlers and indigenous peoples in New England from 1675 to 1678.",
+                "back": "King Philip's War."
+            },
+            {
+                "front": "What was the primary economic system of colonialism, where colonies provided raw materials to the mother country?",
+                "back": "Mercantilism."
+            },
+            {
+                "front": "Which explorer's journey around the Cape of Good Hope in 1497 marked the first European sea voyage to the Indian Ocean?",
+                "back": "Vasco da Gama."
+            },
+            {
+                "front": "Describe the 'Middle Passage' in the context of the Atlantic Slave Trade.",
+                "back": "The Middle Passage refers to the harrowing ocean journey of African slaves from West Africa to the Americas."
+            },
+            {
+                "front": "What was the significance of the Mayflower Compact, signed in 1620?",
+                "back": "It was a foundational document establishing self-governance for the Plymouth Colony."
+            },
+            {
+                "front": "Who was the indigenous leader during the Pequot War of 1636-1638 in New England?",
+                "back": "Sassacus, leader of the Pequot tribe."
+            },
+            {
+                "front": "What event marked the beginning of British colonial dominance in India in 1757?",
+                "back": "The Battle of Plassey."
+            },
+            {
+                "front": "Identify the year when the Pilgrims landed at Plymouth Rock.",
+                "back": "1620."
+            },
+            {
+                "front": "What was the primary crop of the Southern Colonies in America?",
+                "back": "Tobacco."
+            },
+            {
+                "front": "Who was the leader of the Powhatan Confederacy during the early Virginia colony period?",
+                "back": "Chief Powhatan."
+            },
+            {
+                "front": "What war from 1756 to 1763 is often considered the first global war, involving most of the great powers of the time?",
+                "back": "The Seven Years' War."
+            },
+            {
+                "front": "Which 1689 document, drafted as a result of the Glorious Revolution in England, had a profound impact on the colonies?",
+                "back": "The English Bill of Rights."
+            },
+            {
+                "front": "What was the primary purpose of the Spanish missions established in the Americas?",
+                "back": "To convert Indigenous peoples to Christianity and integrate them into Spanish colonial society."
+            },
+            {
+                "front": "Who was the French explorer who founded Quebec City in 1608?",
+                "back": "Samuel de Champlain."
+            },
+            {
+                "front": "What was the name of the economic policy under which nations sought to increase their wealth and power by obtaining large amounts of gold and silver and by selling more goods than they bought?",
+                "back": "Mercantilism."
+            },
+            {
+                "front": "What was the main outcome of the Treaty of Paris in 1763?",
+                "back": "It ended the Seven Years' War, resulting in Britain gaining control over French territories in North America."
+            },
+            {
+                "front": "Which Native American woman is credited with helping the early English settlers at Jamestown and married John Rolfe?",
+                "back": "Pocahontas."
+            },
+            {
+                "front": "What was the Great Awakening in the American colonies?",
+                "back": "A series of religious revivals that swept through the British American colonies in the mid-18th century."
+            },
+            {
+                "front": "Which 1770 event escalated tensions between British soldiers and American colonists, leading to the American Revolution?",
+                "back": "The Boston Massacre."
+            },
+            {
+                "front": "Name the 1765 British law that taxed printed materials in the colonies, causing widespread protest.",
+                "back": "The Stamp Act."
+            },
+            {
+                "front": "Which European country primarily colonized Brazil?",
+                "back": "Portugal."
+            },
+            {
+                "front": "Who was the Aztec emperor during the Spanish conquest of Mexico?",
+                "back": "Montezuma II."
+            },
+            {
+                "front": "What was the main reason for the Salem Witch Trials in 1692?",
+                "back": "Mass hysteria and local feuds, underpinned by a belief in witchcraft."
+            },
+            {
+                "front": "What was the name of the English joint-stock company that played a key role in the colonization of India?",
+                "back": "The British East India Company."
+            },
+            {
+                "front": "Who was the first European to see the Pacific Ocean from the New World in 1513?",
+                "back": "Vasco Núñez de Balboa."
+            },
+            {
+                "front": "Name the 18th-century war in North America that was part of a global conflict between Great Britain and France.",
+                "back": "The French and Indian War."
+            },
+            {
+                "front": "What was the primary purpose of the Navigation Acts passed by the British Parliament in the 17th century?",
+                "back": "To regulate colonial trade and enable England to collect duties (taxes)."
+            },
+            {
+                "front": "What was the name of the Dutch settlement that later became New York City?",
+                "back": "New Amsterdam."
+            },
+            {
+                "front": "Who were the Puritans?",
+                "back": "A religious group from England who settled in Massachusetts Bay Colony in the 1630s seeking religious freedom."
+            },
+            {
+                "front": "What was the 'Triangle Trade'?",
+                "back": "A three-way trade system between the Americas, Europe, and Africa involving slaves, cash crops, and manufactured goods."
+            },
+            {
+                "front": "Which war in the mid-17th century involved English colonists and Native American tribes in a conflict over land and trade in New England?",
+                "back": "The Pequot War."
+            },
+            {
+                "front": "What event, occurring in 1607, marked the beginning of permanent English colonization in North America?",
+                "back": "The founding of Jamestown, Virginia."
+            },
+            {
+                "front": "What was the primary focus of the French colonies in North America?",
+                "back": "Fur trading, particularly beaver pelts."
+            },
+            {
+                "front": "Who was Anne Hutchinson and why was she significant in colonial American history?",
+                "back": "A Puritan woman who was banished from Massachusetts Bay Colony for her religious beliefs, highlighting the lack of religious tolerance."
+            },
+            {
+                "front": "What was the name of the conflict between New England colonists and Native American tribes led by Metacomet in 1675-76?",
+                "back": "King Philip's War."
+            },
+            {
+                "front": "In what year did Portugal begin the European slave trade in Africa?",
+                "back": "1441."
+            },
+            {
+                "front": "What was the significance of the 'Columbian Exchange'?",
+                "back": "The widespread transfer of plants, animals, culture, human populations, technology, and ideas between the Americas and the Old World in the 15th and 16th centuries."
+            },
+
+            {
+                "front": "What was the primary reason for the establishment of the Maryland Colony in 1632?",
+                "back": "To provide a refuge for English Catholics facing persecution in predominantly Protestant England."
+            },
+            {
+                "front": "Name the series of laws passed by the British Parliament in the 1760s that taxed goods imported to the American colonies.",
+                "back": "The Townshend Acts."
+            },
+            {
+                "front": "Who was the leader of the first circumnavigation of the globe, although he didn't complete the voyage himself?",
+                "back": "Ferdinand Magellan."
+            },
+            {
+                "front": "What was the primary cash crop of the Caribbean colonies?",
+                "back": "Sugar cane."
+            },
+            {
+                "front": "Which conflict, often considered a precursor to the American Revolution, involved colonial opposition to British attempts to impose greater control and taxation?",
+                "back": "The American Revolutionary War."
+            },
+            {
+                "front": "What was the Roanoke Colony, established in 1585, famously known for?",
+                "back": "It was known as the 'Lost Colony' due to the mysterious disappearance of its inhabitants."
+            },
+            {
+                "front": "Name the 1648 agreement that marked the end of the Thirty Years' War in Europe and had significant implications for European colonies.",
+                "back": "The Peace of Westphalia."
+            },
+            {
+                "front": "What was the primary purpose of the Spanish Armada, launched in 1588?",
+                "back": "To overthrow Protestant England and its queen, Elizabeth I."
+            },
+            {
+                "front": "Who was the indigenous Taino chief that Columbus first encountered in the New World?",
+                "back": "Chief Guacanagarí."
+            },
+            {
+                "front": "What role did the Dutch West India Company play in colonial history?",
+                "back": "It was a major colonial and trading company that played a key role in the Atlantic slave trade and the colonization of parts of the Americas."
+            },
+            {
+            "front": "What was the primary reason for the establishment of the Maryland Colony in 1632?",
+            "back": "To provide a refuge for English Catholics facing persecution in predominantly Protestant England."
+        },
+        {
+            "front": "Name the series of laws passed by the British Parliament in the 1760s that taxed goods imported to the American colonies.",
+            "back": "The Townshend Acts."
+        },
+        {
+            "front": "Who was the leader of the first circumnavigation of the globe, although he didn't complete the voyage himself?",
+            "back": "Ferdinand Magellan."
+        },
+        {
+            "front": "What was the primary cash crop of the Caribbean colonies?",
+            "back": "Sugar cane."
+        },
+        {
+            "front": "Which conflict, often considered a precursor to the American Revolution, involved colonial opposition to British attempts to impose greater control and taxation?",
+            "back": "The American Revolutionary War."
+        },
+        {
+            "front": "What was the Roanoke Colony, established in 1585, famously known for?",
+            "back": "It was known as the 'Lost Colony' due to the mysterious disappearance of its inhabitants."
+        },
+        {
+            "front": "Name the 1648 agreement that marked the end of the Thirty Years' War in Europe and had significant implications for European colonies.",
+            "back": "The Peace of Westphalia."
+        },
+        {
+            "front": "What was the primary purpose of the Spanish Armada, launched in 1588?",
+            "back": "To overthrow Protestant England and its queen, Elizabeth I."
+        },
+        {
+            "front": "Who was the indigenous Taino chief that Columbus first encountered in the New World?",
+            "back": "Chief Guacanagarí."
+        },
+        {
+            "front": "What role did the Dutch West India Company play in colonial history?",
+            "back": "It was a major colonial and trading company that played a key role in the Atlantic slave trade and the colonization of parts of the Americas."
+        },
+        {
+            "front": "What was the significance of the Pueblo Revolt of 1680?",
+            "back": "An uprising of Puebloan peoples against Spanish colonization in present-day New Mexico, it was one of the most successful acts of resistance by Native Americans."
+        },
+        {
+            "front": "Who was Bartolomé de las Casas and what was he known for?",
+            "back": "A Spanish priest and missionary who became known for his advocacy of the rights of indigenous peoples in the Americas."
+        },
+        {
+            "front": "What was the name of the English ship that transported the first African slaves to the American colonies in 1619?",
+            "back": "The White Lion."
+        },
+        {
+            "front": "Which 17th-century war in Virginia saw Nathaniel Bacon leading a rebellion against Governor William Berkeley?",
+            "back": "Bacon's Rebellion in 1676."
+        },
+        {
+            "front": "What was the primary export of the New England Colonies?",
+            "back": "Fish and whale products, lumber, and furs."
+        },
+        {
+            "front": "Who was the first European explorer to map the coast of Australia in 1606?",
+            "back": "Willem Janszoon."
+        },
+        {
+            "front": "What was the 'Act of Toleration' passed in Maryland in 1649, and why was it significant?",
+            "back": "It was a law mandating religious tolerance for Trinitarian Christians, one of the first laws guaranteeing religious freedom."
+        },
+        {
+            "front": "Which 1692 agreement ended the 'War of the Grand Alliance' between France and the League of Augsburg and had implications for colonial territories?",
+            "back": "The Treaty of Ryswick."
+        },
+        {
+            "front": "What was the primary focus of the Dutch colonies in North America?",
+            "back": "Trade, especially fur trade, with a focus on commerce rather than settlement."
+        },
+        {
+            "front": "What was the 'Charter of Liberties and Privileges,' adopted by the New York colonial assembly in 1683?",
+            "back": "A document that set out the rights and freedoms of the inhabitants of New York, including the right to elect representatives to a legislative assembly."
+        },
+        {
+            "front": "What was the primary objective of the Spanish mission system in California?",
+            "back": "To convert Native Americans to Christianity and assimilate them into Spanish colonial society."
+        },
+        {
+            "front": "Which 1764 British law was designed to reduce smuggling in the American colonies?",
+            "back": "The Sugar Act, which imposed a tax on molasses and sugar imported into the colonies."
+        },
+        {
+            "front": "Who was Olaudah Equiano?",
+            "back": "An African writer and abolitionist who was enslaved as a child and later wrote an autobiography detailing his experiences."
+        },
+        {
+            "front": "What was the 'Glorious Revolution' of 1688 and how did it affect the American colonies?",
+            "back": "The overthrow of King James II of England, which led to greater autonomy and self-government in the colonies."
+        },
+        {
+            "front": "Name the French explorer who claimed Louisiana for France in 1682.",
+            "back": "Robert de La Salle."
+        },
+        {
+            "front": "What was the Albany Plan of Union proposed by Benjamin Franklin in 1754?",
+            "back": "A plan to create a unified government for the Thirteen Colonies, which was rejected by the colonies and the British Crown."
+        },
+        {
+            "front": "Who was the founder of the Province of Pennsylvania?",
+            "back": "William Penn, an English Quaker."
+        },
+        {
+            "front": "What was the significance of the Stono Rebellion in 1739?",
+            "back": "It was a slave uprising in South Carolina, leading to a tightening of harsh slave laws."
+        },
+        {
+            "front": "What was the role of the 'Committees of Correspondence' established in the American colonies?",
+            "back": "They were shadow governments organized by the Patriot leaders of the Thirteen Colonies on the eve of the American Revolution."
+        },
+        {
+            "front": "Name the 1759 battle that was a pivotal moment in the French and Indian War.",
+            "back": "The Battle of Quebec."
+        }]
     },
     {
         "id": 14,
-        "name": "Industrial Revolution",
-        "icon": "gearshape.2.fill",
+        "icon": "moon.stars",
         "color": "blue",
         "language": "EN",
-        "category": "History",
-        "cards": []
+        "category": "science",
+        "cards": [
+            {
+                "front": "What is the largest planet in our Solar System?",
+                "back": "Jupiter."
+            },
+            {
+                "front": "Who was the first human to walk on the moon?",
+                "back": "Neil Armstrong."
+            },
+            {
+                "front": "What is a supernova?",
+                "back": "The explosion of a star at the end of its life cycle."
+            },
+            {
+                "front": "What galaxy is Earth located in?",
+                "back": "The Milky Way Galaxy."
+            },
+            {
+                "front": "What is the name of the closest star to Earth?",
+                "back": "The Sun."
+            },
+            {
+                "front": "What is the name of the first artificial satellite sent into space?",
+                "back": "Sputnik."
+            },
+            {
+                "front": "What planet is known as the 'Red Planet'?",
+                "back": "Mars."
+            },
+            {
+                "front": "Who is considered the father of modern astronomy?",
+                "back": "Nicolaus Copernicus."
+            },
+            {
+                "front": "What does the term 'light-year' measure?",
+                "back": "Distance, specifically the distance that light travels in one year."
+            },
+            {
+                "front": "What is the name of NASA’s most famous space telescope?",
+                "back": "The Hubble Space Telescope."
+            },
+            {
+                "front": "What are the two main types of planets in our Solar System?",
+                "back": "Terrestrial planets (rocky) and Gas giants."
+            },
+            {
+                "front": "What phenomenon is believed to be at the center of most galaxies?",
+                "back": "A supermassive black hole."
+            },
+            {
+                "front": "What is the main difference between a comet and an asteroid?",
+                "back": "Comets are made of ice and dust and typically have a tail, while asteroids are rocky or metallic."
+            },
+            {
+                "front": "What is the Kuiper Belt?",
+                "back": "A region of the Solar System beyond the orbit of Neptune, filled with dwarf planets and other small celestial bodies."
+            },
+            {
+                "front": "Who was the first woman in space?",
+                "back": "Valentina Tereshkova."
+            },
+            {
+                "front": "What is an exoplanet?",
+                "back": "A planet that orbits a star outside our Solar System."
+            },
+            {
+                "front": "What causes a solar eclipse?",
+                "back": "The Moon passing between the Earth and the Sun, casting a shadow on Earth."
+            },
+            {
+                "front": "What is the term for a group of stars that forms a pattern in the sky?",
+                "back": "A constellation."
+            },
+            {
+                "front": "What is the hottest planet in our Solar System?",
+                "back": "Venus, due to its thick atmosphere trapping heat."
+            },
+            {
+                "front": "What mission first successfully landed humans on the Moon?",
+                "back": "Apollo 11."
+            },
+            {
+                "front": "What is the Oort Cloud?",
+                "back": "A distant spherical shell of icy objects surrounding the Solar System."
+            },
+            {
+                "front": "Which planet has the most moons?",
+                "back": "Jupiter."
+            },
+            {
+                "front": "What is the theory that describes the origin of the Universe?",
+                "back": "The Big Bang Theory."
+            },
+            {
+                "front": "What are Saturn's rings primarily composed of?",
+                "back": "Ice particles and rocky debris."
+            },
+            {
+                "front": "Who proposed the laws of planetary motion in the early 17th century?",
+                "back": "Johannes Kepler."
+            },
+            {
+                "front": "What is the name of the only space probe to have visited Uranus and Neptune?",
+                "back": "Voyager 2."
+            },
+            {
+                "front": "What is a quasar?",
+                "back": "A highly luminous and active galactic nucleus."
+            },
+            {
+                "front": "Which planet in our Solar System has the largest volcano?",
+                "back": "Mars (Olympus Mons)."
+            },
+            {
+                "front": "What phenomenon allows black holes to be detected?",
+                "back": "The effects of their gravity on nearby stars and gas."
+            },
+            {
+                "front": "What is the Cassini Division?",
+                "back": "A gap between Saturn's A and B rings."
+            },
+            {
+                "front": "What space probe was the first to leave the Solar System?",
+                "back": "Voyager 1."
+            },
+            {
+                "front": "What is the name of the spacecraft that brought the first humans to the International Space Station?",
+                "back": "The Russian Soyuz spacecraft."
+            },
+            {
+                "front": "Who was the first American astronaut to orbit the Earth?",
+                "back": "John Glenn."
+            },
+            {
+                "front": "What is the Crab Nebula?",
+                "back": "The remnant of a supernova explosion observed in 1054."
+            },
+            {
+                "front": "What are the Van Allen Belts?",
+                "back": "Two layers of charged particles captured by Earth’s magnetic field."
+            },
+            {
+                "front": "What is the name of the largest moon of Saturn?",
+                "back": "Titan."
+            },
+            {
+                "front": "What is a parsec?",
+                "back": "A unit of distance used in astronomy, equal to about 3.26 light-years."
+            },
+            {
+                "front": "What is the Goldilocks Zone?",
+                "back": "The habitable zone around a star where conditions might support life."
+            },
+            {
+                "front": "Which rover was the first to explore Mars?",
+                "back": "Sojourner, part of the Mars Pathfinder mission."
+            },
+            {
+                "front": "What is a protostar?",
+                "back": "An early stage in the formation of a star."
+            },
+            {
+                "front": "What is the Perseverance Rover's primary mission on Mars?",
+                "back": "To search for signs of ancient life and collect soil and rock samples."
+            },
+            {
+                "front": "Which galaxy is closest to the Milky Way?",
+                "back": "The Andromeda Galaxy."
+            },
+            {
+                "front": "What causes auroras, like the Northern Lights?",
+                "back": "Charged particles from the Sun interacting with Earth's magnetic field."
+            },
+            {
+                "front": "What is a white dwarf?",
+                "back": "A small, dense star that is the remnants of a low-mass star."
+            },
+            {
+                "front": "What is the primary function of the James Webb Space Telescope?",
+                "back": "To observe distant objects in the universe, primarily in the infrared spectrum."
+            },
+            {
+                "front": "What is the term for the alignment of three celestial bodies?",
+                "back": "Syzygy."
+            },
+            {
+                "front": "Which planet experiences the most extreme temperature changes in our Solar System?",
+                "back": "Mercury."
+            },
+            {
+                "front": "What is a pulsar?",
+                "back": "A highly magnetized rotating neutron star that emits beams of electromagnetic radiation."
+            },
+            {
+                "front": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+                "back": "The event horizon."
+            },
+            {
+                "front": "What was the first animal sent into space?",
+                "back": "Laika, a Soviet space dog."
+            }    
+        ]
     },
     {
         "id": 15,
-        "name": "Art and History",
-        "icon": "paintbrush",
-        "color": "purple",
+        "name": "World Cuisine",
+        "icon": "fork.knife",
+        "color": "orange",
         "language": "EN",
-        "category": "History",
-        "cards": []
+        "category": "culture",
+        "cards": [
+            {
+                "front": "Which country is known for the dish 'Sushi'?",
+                "back": "Japan."
+            },
+            {
+                "front": "What is the main ingredient in the traditional Italian dish 'Risotto'?",
+                "back": "Rice."
+            },
+            {
+                "front": "What type of food is 'Kimchi'?",
+                "back": "A traditional Korean dish made from fermented vegetables, usually cabbage and radishes."
+            },
+            {
+                "front": "In which country did 'Tacos' originate?",
+                "back": "Mexico."
+            },
+            {
+                "front": "What is 'Baklava'?",
+                "back": "A sweet dessert pastry made of layers of filo filled with chopped nuts and sweetened with syrup or honey, popular in many Middle Eastern countries."
+            },
+            {
+                "front": "What is 'Goulash' and where does it come from?",
+                "back": "A stew of meat and vegetables, seasoned with paprika and other spices, originating from Hungary."
+            },
+            {
+                "front": "Which country is famous for its 'Poutine', a dish of fries topped with cheese curds and gravy?",
+                "back": "Canada."
+            },
+            {
+                "front": "What is the main ingredient in 'Gazpacho'?",
+                "back": "Tomato. Gazpacho is a cold soup made of raw, blended vegetables, originating from Spain."
+            },
+            {
+                "front": "What is 'Ceviche' and which country is it associated with?",
+                "back": "A seafood dish made from fresh raw fish cured in citrus juices, primarily associated with Peru."
+            },
+            {
+                "front": "What are 'Pierogi'?",
+                "back": "A type of filled dumpling, originating from Central and Eastern Europe, especially Poland."
+            },
+            {
+                "front": "What is 'Paella' and where is it from?",
+                "back": "A Spanish rice dish originally from Valencia, typically made with seafood, meats, and vegetables."
+            },
+            {
+                "front": "Which country is known for the creation of 'Croissants'?",
+                "back": "France, although its roots may be traced back to Austria."
+            },
+            {
+                "front": "What is 'Massaman Curry'?",
+                "back": "A rich, relatively mild Thai curry that typically includes coconut milk, meat, potatoes, and nuts."
+            },
+            {
+                "front": "What is 'Feijoada'?",
+                "back": "A stew of beans with beef and pork, considered the national dish of Brazil."
+            },
+            {
+                "front": "In which country did 'Moussaka' originate?",
+                "back": "Greece. It's a baked dish made with eggplant, meat, and béchamel sauce."
+            },
+            {
+                "front": "What are 'Empanadas'?",
+                "back": "Stuffed bread or pastry baked or fried, popular in many Latin American and Spanish cuisines."
+            },
+            {
+                "front": "What is 'Borscht' and its primary ingredient?",
+                "back": "A sour soup popular in Eastern Europe, especially Russia and Ukraine, made primarily with beets."
+            },
+            {
+                "front": "Which country is famous for 'Dim Sum'?",
+                "back": "China. It's a style of Chinese cuisine involving a variety of small dishes, often served with tea."
+            },
+            {
+                "front": "What is 'Ratatouille'?",
+                "back": "A French Provençal stewed vegetable dish, originating in Nice."
+            },
+            {
+                "front": "Where does the dessert 'Tiramisu' come from?",
+                "back": "Italy. It's a coffee-flavored dessert made of ladyfingers dipped in coffee, layered with a mixture of eggs, sugar, and mascarpone cheese."
+            },
+            {
+                "front": "What is 'Haggis' and which country is it associated with?",
+                "back": "A savory pudding containing sheep's pluck, minced with onion, oatmeal, suet, spices, and salt, traditionally encased in the animal's stomach. It's from Scotland."
+            },
+            {
+                "front": "What is 'Jollof Rice'?",
+                "back": "A one-pot rice dish popular in many West African countries, cooked with tomatoes, onions, and spices."
+            },
+            {
+                "front": "Which country is known for 'Schnitzel'?",
+                "back": "Austria. It's a breaded, pan-fried veal cutlet."
+            },
+            {
+                "front": "What is 'Tom Yum Goong'?",
+                "back": "A hot and sour Thai soup usually cooked with shrimp."
+            },
+            {
+                "front": "What are 'Arepas' and where are they from?",
+                "back": "Cornmeal cakes, popular in Colombia and Venezuela."
+            },
+            {
+                "front": "Which country is 'Pho', a popular noodle soup, from?",
+                "back": "Vietnam."
+            },
+            {
+                "front": "What is the traditional main ingredient in Japanese 'Miso Soup'?",
+                "back": "Miso paste, which is made from fermented soybeans."
+            },
+            {
+                "front": "What is 'Dolma'?",
+                "back": "A family of stuffed dishes common in the Mediterranean cuisine, involving vegetables or leaves stuffed with a rice mixture."
+            },
+            {
+                "front": "Which country is known for 'Fajitas'?",
+                "back": "Mexico. They typically consist of grilled meat served on a flour or corn tortilla."
+            },
+            {
+                "front": "What is 'Bibimbap'?",
+                "back": "A Korean rice dish with mixed vegetables, meat, egg, and a variety of seasonings."
+            },
+            {
+                "front": "Where does 'Pavlova', a meringue-based dessert, originate from?",
+                "back": "It is claimed by both Australia and New Zealand."
+            },
+            {
+                "front": "What is 'Baba Ganoush'?",
+                "back": "A Middle Eastern dish made of mashed cooked eggplant mixed with tahini, olive oil, lemon juice, and various seasonings."
+            },
+            {
+                "front": "Which country is known for 'Currywurst'?",
+                "back": "Germany. It's a fast food dish consisting of steamed, then fried pork sausage typically cut into slices and seasoned with curry ketchup."
+            },
+            {
+                "front": "What is 'Coq au Vin'?",
+                "back": "A French dish of chicken braised with wine, lardons, mushrooms, and optionally garlic."
+            },
+            {
+                "front": "Which country is famous for 'Samosas'?",
+                "back": "India. They are fried or baked pastry with a savory filling, such as spiced potatoes, onions, peas, or lentils."
+            },
+            {
+                "front": "What is 'Wiener Schnitzel'?",
+                "back": "A type of schnitzel made of a thin, breaded, pan-fried veal cutlet. It is one of the best known specialities of Viennese cuisine."
+            },
+            {
+                "front": "Where does the stew 'Gumbo' originate?",
+                "back": "Louisiana, USA. It's strongly influenced by Louisiana Creole and Cajun cuisine."
+            },
+            {
+                "front": "What is 'Shawarma'?",
+                "back": "A Middle Eastern dish consisting of meat cut into thin slices, stacked in a cone-like shape, and roasted on a slowly-turning vertical rotisserie or spit."
+            },
+            {
+                "front": "What is 'Souvlaki'?",
+                "back": "A popular Greek fast food consisting of small pieces of meat and sometimes vegetables grilled on a skewer."
+            },
+            {
+                "front": "Which country is known for 'Tagine'?",
+                "back": "Morocco. It's a North African dish named after the earthenware pot in which it is cooked."
+            },
+            {
+                "front": "What is 'Laksa'?",
+                "back": "A spicy noodle soup popular in the Peranakan cuisine of Southeast Asia."
+            },
+            {
+                "front": "What is 'Poke' and where is it from?",
+                "back": "A Hawaiian dish made with diced raw fish, often tuna, seasoned and served as an appetizer or main course."
+            },
+            {
+                "front": "Which country is famous for the noodle dish 'Pad Thai'?",
+                "back": "Thailand. It's a stir-fried noodle dish commonly served as street food."
+            },
+            {
+                "front": "What is 'Moules-frites'?",
+                "back": "A popular dish in Belgium and France, consisting of mussels cooked or steamed with onions and celery served with fries."
+            },
+            {
+                "front": "Where does the dish 'Couscous' originate?",
+                "back": "North Africa. It's a staple made from steamed balls of crushed durum wheat semolina."
+            },
+            {
+                "front": "What is 'Spanakopita'?",
+                "back": "A Greek savory pastry made with spinach, feta cheese, onions, egg, and seasoning."
+            },
+            {
+                "front": "Which country is known for 'Bangers and Mash'?",
+                "back": "The United Kingdom. It's a traditional dish made of sausages and mashed potatoes."
+            },
+            {
+                "front": "What is 'Butter Chicken' and where does it come from?",
+                "back": "A dish from India, made of chicken cooked in a mildly spiced tomato sauce."
+            },
+            {
+                "front": "Which country is renowned for its 'Sauerbraten'?",
+                "back": "Germany. It's a pot roast, usually of beef (but other meats such as lamb, mutton, pork, and traditionally, horse), marinated before cooking."
+            },
+            {
+                "front": "What is 'Beef Bourguignon'?",
+                "back": "A French stew made with beef braised in red wine and beef broth, typically flavored with garlic, onions, and a bouquet garni, with pearl onions and mushrooms."
+            },
+            {
+                "front": "What is 'Falafel' and its origin?",
+                "back": "A Middle Eastern dish consisting of deep-fried balls made from ground chickpeas or fava beans, commonly served in a pita."
+            },
+            {
+                "front": "Which country is known for 'Stroopwafels'?",
+                "back": "The Netherlands. They are thin waffle cookies with a syrup filling."
+            },
+            {
+                "front": "What is 'Banh Mi'?",
+                "back": "A Vietnamese sandwich, typically made with a baguette filled with a variety of ingredients, including meats, vegetables, and condiments."
+            },
+            {
+                "front": "Where does 'Pierogi' originate from?",
+                "back": "Poland. They are filled dumplings of Central and Eastern European origin."
+            },
+            {
+                "front": "What is 'Churrasco'?",
+                "back": "A Brazilian and Portuguese term referring to beef or grilled meat more generally, differing across Latin America and Europe, but a prominent feature in the cuisine of Uruguay, Brazil, Bolivia, Argentina, Chile, Colombia, Nicaragua, Peru, and other Latin American countries."
+            },
+            {
+                "front": "Which country is famous for 'Pav Bhaji'?",
+                "back": "India. It's a fast food dish consisting of a thick vegetable curry served with a soft bread roll."
+            },
+            {
+                "front": "What is 'Sushi' and where is it from?",
+                "back": "A Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, often raw, and vegetables."
+            },
+            {
+                "front": "Which country is known for 'Gazpacho'?",
+                "back": "Spain. It's a cold soup made of raw, blended vegetables."
+            },
+            {
+                "front": "What is 'Kebab'?",
+                "back": "A broad variety of skewered meals originating in the Middle East and later on adopted in the Balkans, the Caucasus, other parts of Europe, as well as parts of Central and South Asia, that are now found worldwide."
+            },
+            {
+                "front": "What is 'Rendang' and where does it come from?",
+                "back": "An Indonesian spicy meat dish originating from the Minangkabau people of Indonesia, which is now commonly served across the country."
+            },
+            {
+                "front": "Which country is famous for 'Baklava'?",
+                "back": "Turkey. It's a sweet dessert pastry made of layers of filo filled with chopped nuts and sweetened with syrup or honey."
+            },
+            {
+                "front": "What is 'Fish and Chips'?",
+                "back": "A hot dish of English origin consisting of fried fish in batter served with chips."
+            },
+            {
+                "front": "Where does the dish 'Gumbo' originate?",
+                "back": "The United States, particularly the state of Louisiana."
+            },
+            {
+                "front": "What is 'Paella'?",
+                "back": "A Spanish rice dish originally from Valencia, which is one of the best-known dishes in Spanish cuisine."
+            },
+            {
+                "front": "Which country is known for 'Kimchi'?",
+                "back": "Korea. It's a traditional side dish of salted and fermented vegetables, such as napa cabbage and Korean radish, made with a widely varying selection of seasonings."
+            },
+            {
+                "front": "What is 'Biryani' and where does it come from?",
+                "back": "An Indian mixed rice dish with its origins among the Muslims of the Indian subcontinent."
+            },
+            {
+                "front": "What is 'Tacos'?",
+                "back": "A traditional Mexican dish consisting of a small hand-sized corn or wheat tortilla topped with a filling."
+            },
+            {
+                "front": "Which country is famous for 'Schnitzel'?",
+                "back": "Austria. It consists of a thin slice of veal or pork meat, coated in breadcrumbs and fried."
+            },
+            {
+                "front": "What is 'Ramen'?",
+                "back": "A Japanese noodle soup. It consists of Chinese wheat noodles served in a meat or fish-based broth, often flavored with soy sauce or miso, and uses toppings such as sliced pork, nori, menma, and scallions."
+            },
+            {
+                "front": "Which country is known for 'Haggis'?",
+                "back": "Scotland. It's a savory pudding containing sheep's heart, liver, and lungs, minced with onion, oatmeal, suet, spices, and salt, mixed with stock, and cooked while traditionally encased in the animal's stomach."
+            },
+            {
+                "front": "What is 'Feijoada'?",
+                "back": "A stew of beans with beef and pork, which is a typical Portuguese dish."
+            },
+            {
+                "front": "Which country is famous for 'Poutine'?",
+                "back": "Canada. It consists of french fries and cheese curds topped with a brown gravy."
+            },
+            {
+                "front": "What is 'Pho'?",
+                "back": "A Vietnamese soup consisting of broth, rice noodles, herbs, and meat, sometimes chicken."
+            },
+            {
+                "front": "Which country is known for 'Currywurst'?",
+                "back": "Germany. It's a fast food dish of German origin consisting of steamed, then fried pork sausage typically cut into slices and seasoned with curry ketchup."
+            },
+            {
+                "front": "What is 'Risotto'?",
+                "back": "A northern Italian rice dish cooked with broth until it reaches a creamy consistency."
+            },
+            {
+                "front": "Which country is famous for 'Borscht'?",
+                "back": "Ukraine. It's a sour soup common in Eastern Europe and Northern Asia."
+            },
+            {
+                "front": "What is 'Moussaka'?",
+                "back": "A Greek dish made from layers of eggplant (aubergine), minced meat, and potatoes, topped with a creamy béchamel sauce and baked."
+            },
+            {
+                "front": "Which country is known for 'Tiramisu'?",
+                "back": "Italy. It's a coffee-flavored dessert made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavored with cocoa."
+            },
+            {
+                "front": "What is 'Ceviche'?",
+                "back": "A South American seafood dish originated in Peru, typically made from fresh raw fish cured in fresh citrus juices, most commonly lemon or lime, and spiced with ají or chili peppers."
+            }
+        ]
     },
     {
         "id": 16,
-        "name": "Women in History",
-        "icon": "person.fill",
+        "name": "World Literature",
+        "icon": "book",
         "color": "pink",
         "language": "EN",
-        "category": "History",
+        "category": "culture",
+        "cards": []
+    },
+    {
+        "id": 17,
+        "name": "Music Theory and Composers",
+        "icon": "music.quarternote.3",
+        "color": "green",
+        "language": "EN",
+        "category": "culture",
+        "cards": []
+    },
+    {
+        "id": 18,
+        "name": "Computer Science Fundamentals",
+        "icon": "desktopcomputer",
+        "color": "gray",
+        "language": "EN",
+        "category": "science",
+        "cards": []
+    },
+    {
+        "id": 19,
+        "name": "Mathematical Concepts",
+        "icon": "calculator",
+        "color": "red",
+        "language": "EN",
+        "category": "science",
+        "cards": []
+    },
+    {
+        "id": 20,
+        "name": "Environment",
+        "icon": "leaf",
+        "color": "green",
+        "language": "EN",
+        "category": "science",
         "cards": []
     }
 ]
