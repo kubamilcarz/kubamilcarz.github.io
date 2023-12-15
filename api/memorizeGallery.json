@@ -438,7 +438,9 @@
         }]
     },
     {
+        
         "id": 14,
+        "name": "Astronomy",
         "icon": "moon.stars",
         "color": "blue",
         "language": "EN",
