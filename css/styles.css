@@ -199,6 +199,10 @@ body, html {
     padding: 40px 0;
 }
 
+.appPreview .youtubeShowcase {
+    max-width: 70%;
+}
+
 .appPreview .links {
     display: flex;
     flex-direction: row;
@@ -260,6 +264,15 @@ body, html {
 .reflectBG {
     border: 2px solid #3E845C;
     background: linear-gradient(0.33turn, #3E845C, #3E865C);
+}
+.youtubeBG {
+    border: 2px solid #FF0000;
+    background: linear-gradient(0.33turn, #FF0000, #f33131);
+}
+.neutralBG {
+    border: 2px solid #ecebec;
+    background: linear-gradient(0.33turn, #e3e3e3, #ededed);
+    color: #454545 !important;
 }
 
 .serif {
@@ -379,7 +392,7 @@ body, html {
     display: block;
 }
 
-#footer > a > div {
+#footer > a > div, .profileContainer {
     width: 100%;
     display: flex;
     align-items: center;
@@ -387,7 +400,7 @@ body, html {
     padding-bottom: 20px;
 }
 
-#footer img {
+#footer img, .profileContainer > .profile {
     width: 100px;
     height: 100px;
     object-fit: cover;
@@ -395,6 +408,15 @@ body, html {
     overflow: hidden;
     border-radius: 50%;
     text-align: center;
+}
+
+.profileContainer {
+    padding-bottom: 0;
+}
+
+.profileContainer > .profile {
+    width: 150px;
+    height: 150px;
 }
 
 #footer h1 {
@@ -454,6 +476,79 @@ body, html {
     height: 100%;
 }
 
+.featuredApps {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-grow: 1;
+    padding: 40px 0;
+}
+
+.verticalStack {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+    padding-bottom: 15px;
+
+    background: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    margin-left: 15px;
+    transition: all 125ms ease-in-out;
+}
+
+.verticalStack:hover {
+    background: #f8f8f8;
+}
+
+.verticalStack:first-child {
+    margin-left: 0;
+}
+
+.verticalStack .showcase {
+    display: block;
+    margin: 0;
+    object-fit: contain;
+    height: 100%;
+    min-height: 180px;
+}
+
+.neutral {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(0, 0%, 98%);
+}
+
+.neutral > .flex-centered {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.neutral span {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: 400;
+    color: hsl(0, 0%, 60%);
+    text-align: center;
+}
+
 #footer.about-hero {
     background: radial-gradient(ellipse at bottom, rgba(122, 196, 245, 0.2), rgba(52, 152, 219, 0.2));;
 }
@@ -497,5 +592,9 @@ body, html {
 
     .horizontal2ColumnMobileOne {
         flex-direction: column;
+    }
+
+    .featuredApps {
+        gap: 30px;
     }
 }
