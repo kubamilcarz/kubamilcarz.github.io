@@ -284,6 +284,9 @@ body, html {
 .sfpro {
     font-family: -apple-system, 'SF Pro', 'Roboto', sans-serif;
 }
+.rounded {
+    font-family: 'SF Pro Rounded', 'SF Pro', 'Roboto', sans-serif;
+}
 
 .flex-centered {
     width: 100%;
@@ -334,6 +337,13 @@ body, html {
 
 .reflect-slight-gradient {
     background: radial-gradient(ellipse at bottom, rgba(61, 133, 92, 0.4), rgba(62, 132, 92, 0.4));
+}
+
+.coffeeNote-gradient {
+    background: radial-gradient(ellipse at bottom, #F9ECE2, #F9ECE290)
+}
+.coffeeNote-slight-gradient {
+    background: radial-gradient(ellipse at bottom, #FFF9F5, #FFF9F590)
 }
 
 .visionSpotlight.appPreview {
