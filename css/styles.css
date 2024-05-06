@@ -195,7 +195,7 @@ body, html {
 .appPreview .showcase {
     display: block;
     width: 80%;
-    margin: 0;
+    margin:  auto;
     padding: 40px 0;
 }
 
@@ -424,10 +424,7 @@ body, html {
     padding-bottom: 0;
 }
 
-.profileContainer > .profile {
-    width: 150px;
-    height: 150px;
-}
+
 
 #footer h1 {
     font-weight: 700;
@@ -521,9 +518,9 @@ body, html {
     margin-left: 0;
 }
 
-.verticalStack .showcase {
+.verticalStack .showcase, .verticalStack .image-container {
     display: block;
-    margin: 0;
+    margin: 0 auto;
     object-fit: contain;
     height: 100%;
     min-height: 180px;
@@ -584,6 +581,49 @@ body, html {
     line-height: 1.6em;
     color: #333333d5;
 }
+
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .image-container img {
+    display: block;
+    width: 100%; /* Adjust width as needed */
+  }
+  
+  .spinner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.1); /* Default overlay color, will be replaced dynamically */
+    border-radius: 4em; /* Rounded corners for the overlay */
+}
+
+.spinner {
+    border: 5px solid rgba(211, 211, 211, 0.5); /* Light gray border */
+    border-top: 5px solid rgba(255, 255, 255, 0.8); /* Brighter gray for the top */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite;
+}
+
+  .profileContainer .profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
 
 @media (max-width: 1039px) {
     .appPreview {

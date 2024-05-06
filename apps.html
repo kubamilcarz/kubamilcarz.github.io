@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Apps | Kuba Milcarz</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.4.0/color-thief.min.js"></script>
     <script src="https://kit.fontawesome.com/bcdc30d79a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/styles.css" />
     <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
@@ -49,7 +50,13 @@
             <div class="container flex-centered">
                 <h1 class="serif">Bookie</h1>
                 <h3 class="serif">Track everything book related and read more.</h3>
-                <img class="showcase" src="img/bookiePreview.png" />
+                
+                <div class="image-container">
+                    <div class="spinner-overlay">
+                        <div class="spinner"></div>
+                    </div>
+                    <img class="showcase" src="img/bookiePreview.png" />
+                </div>
                 
                 <p>Available on iPhone, iPad, and Apple Vision Pro</p>
                 <div class="links">
@@ -63,8 +70,14 @@
             <div class="container flex-centered">
                 <h1 class="fun">Memorize</h1>
                 <h3 class="fun">Study smarter and memorize faster.</h3>
-                <img class="showcase" src="img/memorizePreview.png" />
                 
+                <div class="image-container">
+                    <div class="spinner-overlay">
+                        <div class="spinner"></div>
+                    </div>
+                    <img class="showcase" src="img/memorizePreview.png" />
+                </div>
+
                 <p>Available on iPhone, iPad, Mac, and Apple Vision Pro</p>
                 <div class="links">
                     <a href="https://apps.apple.com/us/app/memorize-flashcards/id1631928972" target="blank"><img src="img/iosAppStore.svg"/></a>
@@ -79,7 +92,13 @@
             <div class="container flex-centered">
                 <h1 class="rounded">Coffee Note</h1>
                 <h3 class="rounded">Take coffee tastings to the next level.</h3>
-                <img class="showcase" src="img/coffeeNotePreview.png" />
+                
+                <div class="image-container">
+                    <div class="spinner-overlay">
+                        <div class="spinner"></div>
+                    </div>
+                    <img class="showcase" src="img/coffeeNotePreview.png" />
+                </div>
                 
                 <p>Available on iPhone, iPad, and Apple Vision Pro</p>
                 <div class="links">
@@ -93,7 +112,13 @@
             <div class="container flex-centered">
                 <h1 class="sfpro">Reflect</h1>
                 <h3 class="sfpro">Weekly reviews focused on personal growth.</h3>
-                <img class="showcase" src="img/reflectPreview.png" />
+                
+                <div class="image-container">
+                    <div class="spinner-overlay">
+                        <div class="spinner"></div>
+                    </div>
+                    <img class="showcase" src="img/reflectPreview.png" />
+                </div>
                 
                 <p>Available on iPhone, iPad, and Apple Vision Pro</p>
                 <div class="links">
@@ -109,7 +134,13 @@
             <div class="container flex-centered">
                 <h1 class="sfpro">Palace</h1>
                 <h3 class="sfpro">Test your Pi knowledge.</h3>
-                <img class="showcase" src="img/palacePreview.png" />
+                
+                <div class="image-container">
+                    <div class="spinner-overlay">
+                        <div class="spinner"></div>
+                    </div>
+                    <img class="showcase" src="img/palacePreview.png" />
+                </div>
                 
                 <p>Available on iPhone and iPad</p>
                 <div class="links">
@@ -126,7 +157,12 @@
     </div>
 
     <footer id="footer">
-        <div><img src="img/profile.jpg" /></div>
+        <div class="image-container">
+            <div class="spinner-overlay">
+                <div class="spinner"></div>
+            </div>
+            <img src="img/profile.jpg" />
+        </div>
         <h1>Kuba Milcarz</h1>
 
         <ul class="socials">
@@ -138,5 +174,7 @@
 
         <p>&copy; Kuba Milcarz 2021-2024</p>
     </footer>
+
+    <script src="js/images.js"></script>
 </body>
 </html>
