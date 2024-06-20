@@ -269,7 +269,7 @@ body, html {
     border: 2px solid #642D1F;
     background: linear-gradient(0.33turn, #642D1F, #642d1fdb);
 }
-.journeyBG {
+.escapeBG {
     border: 2px solid #E44431;
     background: linear-gradient(0.33turn, #E44431, #E44431db);
 }
@@ -349,7 +349,7 @@ body, html {
 .coffeeNote {
     background: #FFF9F5;
 }
-.journey {
+.escape {
     background: #eed5d5;
 }
 .palace {
@@ -366,17 +366,17 @@ body, html {
     background: radial-gradient(ellipse at bottom, rgba(61, 133, 92, 0.4), rgba(62, 132, 92, 0.4));
 }
 
-.journey-gradient {
+.escape-gradient {
     background: radial-gradient(ellipse at bottom, #F9ECE2, #F9ECE290)
 }
-.journey-slight-gradient {
+.escape-slight-gradient {
     background: radial-gradient(ellipse at bottom, #FFF9F5, #FFF9F590)
 }
 
-.journey-gradient {
+.escape-gradient {
     background: radial-gradient(ellipse at bottom, #F58D92, #E4B6B9)
 }
-.journey-slight-gradient {
+.escape-slight-gradient {
     background: radial-gradient(ellipse at bottom, #E4B6B9, #E4B6B9)
 }
 
