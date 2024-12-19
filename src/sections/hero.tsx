@@ -19,7 +19,7 @@ export default function Hero() {
                 <div className="flex flex-col items-center md:items-start justify-center space-y-5">
                     <h1 className="text-4xl font-bold font-serif" style={{ color: 'var(--secondary)' }}>Hi there!</h1>
                     <p className="text-center md:text-left font-medium">
-                        Hi I'm Kuba - iOS developer with 6 apps on the App Store and a finalist of Swift Student Challenge 2024.
+                        Hi I&apos;m Kuba - iOS developer with 6 apps on the App Store and a finalist of Swift Student Challenge 2024.
                     </p>
                     <p className="text-center md:text-left">
                         Join me on my journey on YouTube and via newsletter.

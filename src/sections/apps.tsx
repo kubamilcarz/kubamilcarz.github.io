@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Card from "@/components/card";
-import AppsCarousel from "@/components/apps_carousel";
 
 export default function Apps() {
     const items = [
@@ -100,7 +99,7 @@ export default function Apps() {
                     And so much <span style={{ color: 'var(--secondary)' }}>more</span>
                 </h1>
                 <p className="font-medium w-full text-center md:text-left">
-                    I'm always working on new projects. Stay tuned for more apps and updates I share on...
+                    I&apos;m always working on new projects. Stay tuned for more apps and updates I share on...
                 </p>
             </div>
 
