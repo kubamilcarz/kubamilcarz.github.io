@@ -11,7 +11,7 @@ const videos = [
 export default function Youtube() {
     return (
         <Card>
-            <div className="flex w-full flex-col items-center justify-center space-y-5">
+            <div className="flex w-full flex-col items-center justify-center space-y-10">
                 <div className="flex w-full flex-col md:flex-row items-center justify-center space-y-5 md:space-y-0 md:space-x-5">
                     <div className="flex w-full flex-1 flex-col items-center justify-center">
                         <Image src="/youtube.svg" alt="Newsletter" width={500} height={500} />
@@ -28,8 +28,8 @@ export default function Youtube() {
 
                         <div className="flex w-full flex-col items-center justify-center md:items-start space-y-3 md:py-10">
                             <p className="font-medium text-center md:text-left">Subscribe now and join over 130 people!</p>
-                            <button className="md:w-auto bg-[var(--secondary)] rounded-xl py-3 px-20 md:px-6 font-bold text-white">
-                                Watch now</button>
+                            <a href="https://www.youtube.com/@kubamilcarz" target="_blank" className="md:w-auto bg-[var(--secondary)] rounded-xl py-3 px-20 md:px-6 font-bold text-white">
+                                Watch now</a>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ export default function Youtube() {
                             <h1 className="text-4xl font-bold font-serif w-full text-center md:text-left">
                                 Featured videos
                             </h1>
-                            <a href="" className="bg-[var(--primary)] rounded-full font-bold text-white text-nowrap px-3 py-3 hover:text-slate-200">Dev Snippets</a>
+                            <a href="https://www.youtube.com/watch?v=isFloJD1pMo&list=PLU91ljc-lIM4_T2CfMMKAzmoktM7k4CMr&pp=gAQB" target="_blank" className="bg-[var(--primary)] text-sm rounded-full font-bold text-white text-nowrap px-3 py-3 hover:text-slate-200">Dev Snippets</a>
                         </div>
                         <div className="flex flex-col md:flex-row items-start justify-center gap-5 w-full">
                             {videos.map((video, index) => (
@@ -51,7 +51,7 @@ export default function Youtube() {
                                             alt={video.title}
                                             width={300}
                                             height={200}
-                                            className="rounded-xl object-cover"
+                                            className="w-full rounded-xl object-cover"
                                         />
                                     </div>
                                     <div className="w-full">

@@ -13,7 +13,7 @@ export default function Hero() {
                     alt="Hero"
                     width={130}
                     height={130}
-                    className="w-auto rounded-full"
+                    className="rounded-full"
                 />
 
                 <div className="flex flex-col items-center md:items-start justify-center space-y-5">

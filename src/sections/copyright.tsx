@@ -1,6 +1,6 @@
 export default function Copyright() {
     return (
-        <footer id="footer" className="flex justify-between items-center py-5">
+        <footer id="footer" className="flex flex-col md:flex-row justify-between items-center py-5 space-y-5">
             <p className="text-sm">&copy; Kuba Milcarz 2024. All rights reserved.</p>
 
             <ul className="flex space-x-2 text-sm">
